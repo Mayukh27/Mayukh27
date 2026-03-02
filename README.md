@@ -25,4 +25,4 @@ core of applications — APIs, authentication, databases, and security.
 
 ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/mayukh-g27
-- Email: g.mayukh272@gmail.com
+- Email: mayukhghosh27@gmail.com
