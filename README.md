@@ -11,12 +11,12 @@ core of applications — APIs, authentication, databases, and security.
 - System design and data handling
 
 ## 🛠 Tech Stack
-- **Languages:** Python, Java, C
-- **Backend:** Spring Boot, FastAPI, Flask
-- **Databases:** MySQL, PostgreSQL
-- **Security:** Authentication, rate limiting, secure API design
+- **Languages:** Java, Python, C
+- **Backend:** Spring Boot, FastAPI, Flask, REST APIs
+- **Databases:** PostgreSQL, MySQL
+- **Security:** JWT, MFA, RBAC, bcrypt
 - **ML / CV:** OpenCV, applied machine learning
-- **Tools:** Git, GitHub, Maven, Postman,Nginx, Linux
+- **Tools:** Git, GitHub, Maven, Postman, Linux, Docker, Nginx
 
 ## 📌 What I'm working on
 - Secure backend services using Spring Boot
